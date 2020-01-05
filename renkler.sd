@@ -1,0 +1,7 @@
+Kullanım  = .setColor(Renk)
+Kırmızı   = 0xff0000
+AçıkMavi  = 0x00ffec
+Sarı      = 0xffe900
+Lacivert  = 0x0048ff
+Yeşil     = 0x1bff00
+Turuncu   = 0xf78352
